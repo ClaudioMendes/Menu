@@ -5,7 +5,7 @@
 
 Este projeto tem como função demonstrar o cardápio e ajudar o cliente a fazer um pedido em um restaurante e já enviar o local para entrega, facilitando muito o dia a dia de quem trabalha em um restaurante.
 
-<strong>Link:<strong> 
+<strong>Link:<strong> https://claudiomendes.github.io/Menu/
 
 ### 🔨 Ferramentas Utilizadas
 
