@@ -12,7 +12,7 @@ Este projeto tem como função demonstrar o cardápio e ajudar o cliente a fazer
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [JSS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-* [API VIACEP](https://viacep.com.br/ws/)
+* [API VIACEP](https://viacep.com.br/)
 * [API WHATSAPP](https://wa.me/+5516993653572?text=Olá)
 
 ### 📽️ Projeto 
